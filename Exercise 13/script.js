@@ -1,0 +1,9 @@
+//Exercise 13
+
+// while loop
+
+let i = 5;
+while (i > 0) {
+  console.log(i);
+  i++;
+}
