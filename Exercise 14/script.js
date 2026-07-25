@@ -2,10 +2,9 @@
 
 // do while loop
 
-let number;
-
+let greater;
 do {
-  number = Number(prompt("Enter a number greater than 10:"));
-} while (isNaN(number) || number <= 10);
+  greater = prompt("gili wixi 10 kaweyn ");
+} while (greater === 10);
 
-console.log("Correct! You entered:", number);
+console.log("welcome ");
